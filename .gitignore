@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+ecommerce-sales-analysis/
