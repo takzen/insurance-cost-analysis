@@ -48,7 +48,7 @@ To reproduce this analysis, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/insurance-cost-analysis.git
+    git clone https://github.com/takzen/insurance-cost-analysis.git
     cd insurance-cost-analysis
     ```
 
